@@ -20,17 +20,24 @@ produção e distribuição.
 Você é fã de jogos de tabuleiro clássicos como xadrez, damas, shogi ou xiangqi? Então, junte-se à ChessArt, faça parte da nossa comunidade,
 ajude a decidir sobre os próximos estilos e designs das nossas coleções de jogos.
 
-Participe do nosso Discord: [link do convite do Discord]
-Siga-nos no Twitter: [link do Twitter]
-Entre na conversa no Bluesky: [link do Bluesky]
+1. Participe do nosso Discord: (ChessArt Community)[link do convite do Discord]
+2. Siga-nos no X(Twitter): (@ChessArt)[link do Twitter]
+3. Entre na conversa no Bluesky: (ChessArt)[link do Bluesky]
 
 Ao fazer parte da DAO, você também terá a chance de influenciar as decisões de produção e ganhar tokens de governança,
 aqui sua voz importa. Vamos juntos revolucionar o mundo dos jogos de tabuleiro!
 
 ## Token
+ O token será chamado de $CHESS dando poder ao usuário para votar em novos designs, e propostas de parceria.
+ Os primeiros tokens serão distribuidos entre membros fundadores, e os novos membros receberão tokens proporcionais a sua participação.
 
 ## Captação de recursos
+1. Vendas de NFTs dos jogos de xadrez.
+2. Venda antecipada: Vender lotes limitados dos jogos, acompanhadas de NFTs e benefícios para os primeiros apoiadores.
+3. Crowdfunding: implementar campanhas para que os membros contribuam em troca de tokens.
 
 ## Snapshot
+O Snapshot será utlizado para votação dos membros comunidade com tokens $CHESS ( ser definido quantidade depois), 
+a votação terá duração de (definição de dias) com participação para validade 20% dos membros votantes.
 
 ## LLC
