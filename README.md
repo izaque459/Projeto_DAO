@@ -20,7 +20,7 @@ produção e distribuição.
 Você é fã de jogos de tabuleiro clássicos como xadrez, damas, shogi ou xiangqi? Então, junte-se à ChessArt, faça parte da nossa comunidade,
 ajude a decidir sobre os próximos estilos e designs das nossas coleções de jogos.
 
-1. Participe do nosso Discord: (ChessArt Community)[link do convite do Discord]
+1. Participe do nosso Discord: (ChessArt Community){:target="_blank"}
 2. Siga-nos no X(Twitter): (@ChessArt)[link do Twitter]
 3. Entre na conversa no Bluesky: (ChessArt)[link do Bluesky]
 
@@ -41,3 +41,4 @@ O Snapshot será utlizado para votação dos membros comunidade com tokens $CHES
 a votação terá duração de (definição de dias) com participação para validade 20% dos membros votantes.
 
 ## LLC
+Para garantir a conformidade legal, será criado um ChessArt LLC, usando DAO LLC formalizando contrato e parcerias.
